@@ -6,7 +6,8 @@ Ek olarak, programın günlük hayattaki bir kullanım senaryosu olan “çalı�
 Kullanıcının girdiği iki tarih arasındaki epoch zaman farkını hesaplar
 Günlük hayatta çalışma süresi hesaplama için kullanılabilecek bir versiyon içerir
 Struct ve union kullanımı örneklenmiştir
-#Kullanım
+
+# Kullanım
 
 1.Kodları derle ve çalıştır
 
