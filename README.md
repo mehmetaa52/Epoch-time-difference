@@ -14,7 +14,9 @@ Struct ve union kullanımı örneklenmiştir
 
 
 2.İlk tarih ve saat bilgisini gir:
+
 (Yıl ay gün saat dakika saniye şeklinde girilmelidir.)
+
 YYYY MM DD HH MM SS
 
 3.İkinci tarihi gir veya sistem saatini kullan:
