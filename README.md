@@ -1,7 +1,8 @@
 # Epoch-time-difference
 Bu proje, kullanıcının girdiği iki farklı tarih arasındaki zaman farkını epoch zamanı üzerinden hesaplayan bir C programıdır.
 Ek olarak, programın günlük hayattaki bir kullanım senaryosu olan “çalışma süresi hesaplama” versiyonu da eklenmiştir.
-
+# Epoch nedir?
+Epoch bilgisayarlarda zaman ölçmek için kullanılan bir referans noktasıdır.Başlangıcı 1 Ocak 1970, 00:00:00 UTC tarihidir.Bilgisayarlar ve birçok programlama dili, zamanı bu tarihten itibaren geçen saniye cinsinden ölçer. Bu sayıya epoch time veya Unix timestamp denir.
 # Özellikler
 Kullanıcının girdiği iki tarih arasındaki epoch zaman farkını hesaplar
 Günlük hayatta çalışma süresi hesaplama için kullanılabilecek bir versiyon içerir
@@ -13,7 +14,7 @@ Struct ve union kullanımı örneklenmiştir
 
 
 2.İlk tarih ve saat bilgisini gir:
-
+(Yıl ay gün saat dakika saniye şeklinde girilmelidir.)
 YYYY MM DD HH MM SS
 
 3.İkinci tarihi gir veya sistem saatini kullan:
