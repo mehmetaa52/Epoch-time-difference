@@ -10,7 +10,7 @@ Struct ve union kullanımı örneklenmiştir
 
 1.Repoyu klonla:
 
-git clone https://github.com/kullanici_adin/epoch-zaman-degisimi.git
+git clone https://github.com/mehmetaa52/epoch-zaman-degisimi.git
 cd epoch-zaman-degisimi
 
 2.Kodları derle ve çalıştır:
