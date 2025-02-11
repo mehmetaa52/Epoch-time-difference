@@ -2,31 +2,24 @@
 Bu proje, kullanıcının girdiği iki farklı tarih arasındaki zaman farkını epoch zamanı üzerinden hesaplayan bir C programıdır.
 Ek olarak, programın günlük hayattaki bir kullanım senaryosu olan “çalışma süresi hesaplama” versiyonu da eklenmiştir.
 
- Özellikler
+# Özellikler
 Kullanıcının girdiği iki tarih arasındaki epoch zaman farkını hesaplar
 Günlük hayatta çalışma süresi hesaplama için kullanılabilecek bir versiyon içerir
 Struct ve union kullanımı örneklenmiştir
- Kurulum & Kullanım
+#Kullanım
 
-1.Repoyu klonla:
+1.Kodları derle ve çalıştır
 
-git clone https://github.com/mehmetaa52/epoch-zaman-degisimi.git
-cd epoch-zaman-degisimi
 
-2.Kodları derle ve çalıştır:
-
-gcc epoch_fark.c -o epoch_fark
-./epoch_fark
-
-3.İlk tarih ve saat bilgisini gir:
+2.İlk tarih ve saat bilgisini gir:
 
 YYYY MM DD HH MM SS
 
-4.İkinci tarihi gir veya sistem saatini kullan:
+3.İkinci tarihi gir veya sistem saatini kullan:
 
 YYYY MM DD HH MM SS
 
- 5.Çıktıyı gör! 
+4.Çıktıyı gör! 
 
 📌 Örnek Çalıştırma Çıktısı
 
